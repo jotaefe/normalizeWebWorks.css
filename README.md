@@ -9,5 +9,5 @@ A modification of [normalize.css](https://github.com/necolas/normalize.css) for 
 * Improves usability with subtle improvements.
 * Explains what code does using detailed comments.
 
-## Used as base
-* [normalize.css v,2.1.0](https://github.com/necolas/normalize.css)
+## Credits
+* [normalize.css](https://github.com/necolas/normalize.css) by [Nicolas Gallagher](https://github.com/necolas) and [Jonathan Neal](https://github.com/jonathantneal) 
