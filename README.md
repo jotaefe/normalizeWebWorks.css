@@ -1,4 +1,4 @@
-normalizeWebWorks.css
+normalizeWebWorks.css v.0.1
 =====================
 
-A modification of normalize.css (https://github.com/necolas/normalize.css) for BlackBerry WebWorks applications for working only with Webkit engine
+A modification of [normalize.css](https://github.com/necolas/normalize.css) for BlackBerry WebWorks applications for working only with Webkit engine.
