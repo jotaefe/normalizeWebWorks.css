@@ -9,5 +9,8 @@ A modification of [normalize.css](https://github.com/necolas/normalize.css) for 
 * Improves usability with subtle improvements.
 * Explains what code does using detailed comments.
 
+## The difference compared to normelize.css
+* Really there is not much difference, the file was with 5kb while the original had had 7kb. A small reduction lines 116. Just removed the checks and other treatments for different engines than this in the BlackBerry WebWorks.
+
 ## Credits
 * [normalize.css](https://github.com/necolas/normalize.css) by [Nicolas Gallagher](https://github.com/necolas) and [Jonathan Neal](https://github.com/jonathantneal) 
