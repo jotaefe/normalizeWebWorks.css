@@ -10,7 +10,7 @@ A modification of [normalize.css](https://github.com/necolas/normalize.css) for 
 * Explains what code does using detailed comments.
 
 ## The difference compared to normalize.css
-* Really there is not much difference, the file was with 5kb while the original had had 7kb. A small reduction lines 116. Just removed the checks and other treatments for different engines than this in the BlackBerry WebWorks.
+* Really there is not much difference, the file was with 5kb while the original had had 7kb. A small reduction of 116 lines. Just removed the checks and other treatments for different engines than this in the [BlackBerry WebWorks](http://blackberry.github.com/webworks/).
 
 ## Credits
 * [normalize.css](https://github.com/necolas/normalize.css) by [Nicolas Gallagher](https://github.com/necolas) and [Jonathan Neal](https://github.com/jonathantneal) 
