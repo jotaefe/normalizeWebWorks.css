@@ -20,13 +20,13 @@ audio:not([controls]) {
    ========================================================================== */
 
 /**
- * 1. Set default font family to sans-serif.
+ * 1. Using the's default BBUIJS.
  * 2. Prevent iOS text size adjust after orientation change, without disabling
  *    user zoom.
  */
 
 html {
-    font-family: sans-serif; /* 1 */
+    font-family: "Slate Pro",Slate,"Myriad Pro","BBAlpha Sans",Helvetica; /* 1 */
     -webkit-text-size-adjust: 100%; /* 2 */
 }
 
