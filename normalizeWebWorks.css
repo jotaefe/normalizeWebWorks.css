@@ -32,10 +32,11 @@ html {
 
 /**
  * Remove default margin.
+ * If you are using BBUIJS, remember to remove this line because it is already done in bbUI.css.
  */
 
 body {
-    margin: 0;
+    margin: 0; 
 }
 
 /* ==========================================================================
