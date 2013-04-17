@@ -252,8 +252,8 @@ html input[disabled] {
 }
 
 /**
- * 1. Address `appearance` set to `searchfield` in Safari 5 and Chrome.
- * 2. Address `box-sizing` set to `border-box` in Safari 5 and Chrome
+ * 1. Address `appearance` set to `searchfield` in BB10.
+ * 2. Address `box-sizing` set to `border-box` in BB10.
  */
 
 input[type="search"] {
