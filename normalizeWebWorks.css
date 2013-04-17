@@ -66,7 +66,7 @@ a:hover {
 
 /**
  * Address variable `h1` font-size and margin within `section` and `article`
- * contexts in Firefox 4+, Safari 5, Chrome, and BB10
+ * contexts in BB10.
  */
 
 h1 {
@@ -75,7 +75,7 @@ h1 {
 }
 
 /**
- * Address styling not present in IE 8/9, Safari 5, and Chrome.
+ * Address styling not present in BB10.
  */
 
 abbr[title] {
@@ -163,6 +163,19 @@ sup {
 sub {
     bottom: -0.25em;
 }
+
+/* ==========================================================================
+   Figures
+   ========================================================================== */
+
+/**
+ * Address margin not present in BB10.
+ */
+
+figure {
+    margin: 0;
+}
+
 
 /* ==========================================================================
    Forms
