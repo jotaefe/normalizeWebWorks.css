@@ -227,19 +227,6 @@ select {
 }
 
 /**
- * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
- *    and `video` controls.
- * 2. Correct inability to style clickable `input` types in iOS.
- */
-
-button,
-html input[type="button"], /* 1 */
-input[type="reset"],
-input[type="submit"] {
-    -webkit-appearance: button; /* 2 */
-}
-
-/**
  * 1. Address `appearance` set to `searchfield` in BB10.
  * 2. Address `box-sizing` set to `border-box` in BB10.
  */
