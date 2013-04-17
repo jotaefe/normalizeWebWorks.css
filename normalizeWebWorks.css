@@ -243,15 +243,6 @@ input[type="submit"] {
 }
 
 /**
- * Re-set default cursor for disabled elements.
- */
-
-button[disabled],
-html input[disabled] {
-    cursor: default;
-}
-
-/**
  * 1. Address `appearance` set to `searchfield` in BB10.
  * 2. Address `box-sizing` set to `border-box` in BB10.
  */
@@ -263,7 +254,7 @@ input[type="search"] {
 }
 
 /**
- * Improve readability and alignment in all browsers.
+ * Improve readability and alignment in BB10.
  */
 
 textarea {
@@ -275,7 +266,7 @@ textarea {
    ========================================================================== */
 
 /**
- * Remove most spacing between table cells.
+ * Remove most spacing between table cells in BB10.
  */
 
 table {
